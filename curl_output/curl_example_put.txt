@@ -1,0 +1,1 @@
+curl -X PUT -H 'Content-Type: application/json' -d '{"firstName": "Kris", "lastName": "Jordan"}' echo.httpkit.com

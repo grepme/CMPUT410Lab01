@@ -1,0 +1,21 @@
+{
+  "method": "PUT",
+  "uri": "/",
+  "path": {
+    "name": "/",
+    "query": "",
+    "params": {}
+  },
+  "headers": {
+    "x-forwarded-for": "129.128.41.47",
+    "host": "echo.httpkit.com",
+    "user-agent": "curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "43"
+  },
+  "body": "{\"firstName\": \"Kris\", \"lastName\": \"Jordan\"}",
+  "ip": "127.0.0.1",
+  "powered-by": "http://httpkit.com",
+  "docs": "http://httpkit.com/echo"
+}
